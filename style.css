@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(213, 248, 198); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+/* titulo principal */
+#titulo-principal{
+    color: rgb(38, 85, 39);
+    font-size: 38px;
+    text-align: center;
+}
+h2 {
+    color: lightgreen;
+    margin-top: 40px;
+}
+
+/* imagem com classe*/
+.poster {
+display: block;
+margin: 15px auto;
+border: 2px solid ;
+border-radius: 15px;
+width: 250px;
+}
+/* link */ 
+a { color: rgb(90, 139, 97);
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: rgb(155, 245, 150);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 8px;
+}
